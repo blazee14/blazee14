@@ -24,6 +24,7 @@ Me apasiona aprender y crear soluciones.
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-Arch-black?style=for-the-badge&logo=archlinux)
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
 <p>Lenguajes</p>
