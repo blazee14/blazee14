@@ -12,7 +12,7 @@ Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab
 Me apasiona aprender y crear soluciones.  
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Contáctame en: <a href="mailto:bryanyssw2020@gmail.com">bryanyssw2020@gmail.com</a>
-<p></p> <br>
+<p></p>
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages I Use
 <p></p>
 
