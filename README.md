@@ -5,7 +5,7 @@
 
 <h1 align="center"><b>Hola , Soy Brayhan Cruzado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+<img align="right"  width="250" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNlbHpvMTFoenh0N2cwcGp6cXl5bmw5aHQzemxlbTJuYmJlZG9tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u7D5EyS2EFlpC/giphy.gif">
 
 Soy estudiante de la carrera de **Ingeniería de Sistemas Computacionales**, actualmente me encuentro a terminando mis estudios.  
 Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrollador de software independiente**.  
