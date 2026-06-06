@@ -3,27 +3,15 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
-  </ul>
-</div>
+<h1 align="center"><b>Hola , Soy Brayhan Cruzado </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
+Soy estudiante de la carrera de **Ingeniería de Sistemas Computacionales**, actualmente me encuentro a terminando mis estudios.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrollador de software independiente**.  
+Me apasiona aprender y crear soluciones.  
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
+Contáctame en: <a href="mailto:bryanyssw2020@gmail.com">bryanyssw2020@gmail.com</a>  
 
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
