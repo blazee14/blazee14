@@ -60,6 +60,14 @@ Me apasiona aprender y crear soluciones.
 <a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<h4>System-OS</h4>
+<p>
+ 
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-7B68EE?style=for-the-badge&logo=linux&logoColor=white)
+</p>
+
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
 
 <p align="center">
