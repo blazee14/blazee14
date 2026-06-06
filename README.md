@@ -8,7 +8,7 @@
 <img align="right"  width="250" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNlbHpvMTFoenh0N2cwcGp6cXl5bmw5aHQzemxlbTJuYmJlZG9tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u7D5EyS2EFlpC/giphy.gif">
 
 Soy estudiante de la carrera de **Ingeniería de Sistemas Computacionales**, actualmente me encuentro a terminando mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab``ajo como **desarrollador de software independiente**.  
+Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trabajo como **desarrollador de software independiente**.  
 Me apasiona aprender y crear soluciones.  
 
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Contáctame en: <a href="mailto:bryanyssw2020@gmail.com">bryanyssw2020@gmail.com</a>
