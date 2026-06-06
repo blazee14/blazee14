@@ -1,5 +1,5 @@
-![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 ![footer_wave](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer_wave.svg)
+![footer](https://github.com/Aurorp1g/Aurorp1g/raw/main/footer.webp)
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
