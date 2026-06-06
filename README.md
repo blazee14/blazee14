@@ -12,9 +12,8 @@ Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, y trab
 Me apasiona aprender y crear soluciones.  
 
 Contáctame en: <a href="mailto:bryanyssw2020@gmail.com">bryanyssw2020@gmail.com</a>
-<a></a>
-<a></a>
-
+<br>
+<br>
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
