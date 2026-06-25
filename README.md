@@ -17,7 +17,7 @@ Me apasiona aprender y crear soluciones.
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Languages ​​I am learning to use
 <p></p>
 
-![ReactJs](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
+![ReactJs](https://img.shields.io/badge/-React%20-000?&logo=React)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![ReactNative](https://img.shields.io/badge/-React%20native-000?&logo=React)
